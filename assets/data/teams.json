@@ -1,0 +1,26 @@
+[
+{
+    "id": 1,
+    "nome": "Flamengo",
+    "logo": "assets/images/Flamengo.png"
+},
+
+{
+    "id": 2,
+    "nome": "Corinthians",
+    "logo": "assets/images/Corinthians.png"
+},
+
+{
+    "id": 3,
+    "nome": "Palmeiras",
+    "logo": "assets/images/Palmeiras.png"
+},
+
+{
+    "id": 4,
+    "nome": "São Paulo",
+    "logo": "assets/images/SaoPaulo.png"
+}
+
+]
